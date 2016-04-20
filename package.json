@@ -1,0 +1,38 @@
+{
+  "name": "string-permutation",
+  "version": "0.0.0",
+  "description": "Find all permutations of a string and by a given length.",
+  "license": "MIT",
+  "repository": "egoist/string-permutation",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com",
+    "url": "github.com/egoist"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "math",
+    "permutation",
+    "alphabet"
+  ],
+  "devDependencies": {
+    "ava": "latest",
+    "xo": "latest"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": 2,
+    "rules": {
+      "operator-linebreak": [2, "before"]
+    }
+  }
+}
