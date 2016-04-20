@@ -1,6 +1,6 @@
 # string-permutation [![NPM version](https://img.shields.io/npm/v/string-permutation.svg)](https://npmjs.com/package/string-permutation) [![NPM downloads](https://img.shields.io/npm/dm/string-permutation.svg)](https://npmjs.com/package/string-permutation) [![Build Status](https://img.shields.io/circleci/project/egoist/string-permutation/master.svg)](https://circleci.com/gh/egoist/string-permutation)
 
-> Find all permutations of a string and by a given length.
+> Find all permutations of a string by a given length.
 
 ## Install
 

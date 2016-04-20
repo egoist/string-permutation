@@ -1,7 +1,7 @@
 {
   "name": "string-permutation",
   "version": "0.0.0",
-  "description": "Find all permutations of a string and by a given length.",
+  "description": "Find all permutations of a string by a given length.",
   "license": "MIT",
   "repository": "egoist/string-permutation",
   "author": {
