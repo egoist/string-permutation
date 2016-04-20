@@ -13,14 +13,14 @@ $ npm install --save string-permutation
 ```js
 const permutation = require('string-permutation')
 
-stringPermutation('ab', 2)
+permutation('ab', 2)
 //=> ['aa', 'ab', 'ba', 'bb']
 
-stringPermutation('ab', {maxSize: 2, recursive: true})
+permutation('ab', {maxSize: 2, recursive: true})
 //=> ['a', 'b', 'aa', 'ab', 'ba', 'bb']
 
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'
-stringPermutation(alphabet, 2)
+permutation(alphabet, 2)
 /**
 [
   'aa',
