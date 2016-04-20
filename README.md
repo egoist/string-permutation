@@ -52,9 +52,14 @@ When it's a `number` we treat it as the `options.maxSize`
 
 ##### maxSize
 
+Type: `number`
+
 The size of each item in the result.
 
 ##### recursive
+
+Type: `boolean`<br>
+Default: `false`
 
 Including the items whose length is smaller than `maxSize`.
 
